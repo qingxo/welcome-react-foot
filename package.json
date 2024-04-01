@@ -1,7 +1,18 @@
 {
   "name": "welcome-react-foot",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.10",
+  "private": false,
+  "keywords": [
+    "react",
+    "base",
+    "web"
+  ],
+  "author": "tandthey",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tandthey/welcome-react-foot.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
